@@ -1,0 +1,14 @@
+{
+  "countries": [
+    {"name": "United States", "capital": "Washington, D.C."},
+    {"name": "Canada", "capital": "Ottawa"},
+    {"name": "United Kingdom", "capital": "London"},
+    {"name": "Germany", "capital": "Berlin"},
+    {"name": "France", "capital": "Paris"},
+    {"name": "Italy", "capital": "Rome"},
+    {"name": "Australia", "capital": "Canberra"},
+    {"name": "India", "capital": "New Delhi"},
+    {"name": "Brazil", "capital": "Brasília"},
+    {"name": "Japan", "capital": "Tokyo"}
+  ]
+}
